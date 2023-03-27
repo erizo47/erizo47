@@ -4,4 +4,10 @@
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erizo47&hide=stars,issues,contribs&theme=radical)
 
-Skills: Vue.js / Nuxt.js / JS / HTML5 / CSS3 / Pinia / Vite
+Hard skills: 
+#### Vue.js / Nuxt 3
+#### JavaScript / Typescript
+#### HTML5 / CSS3 / SCSS / PostCSS
+#### Pinia / Vuex 
+#### Vite / Webpack
+#### Cornerstone.js
